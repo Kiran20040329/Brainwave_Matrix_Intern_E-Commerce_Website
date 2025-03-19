@@ -13,7 +13,7 @@ Task 2 of the Brainwave_Mtrix_Solutions internship with repective domain of "Web
 # Brainwave_Matrix_Intern_E-Commerce_Website
 The E-commerce Website is a modern, responsive shopping platform built with HTML, CSS, and JavaScript. It provides an interactive and seamless shopping experience with a user-friendly interface.
 
-Here's your updated **README.md** with screenshots included:  
+
 
 ---
 
