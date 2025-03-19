@@ -33,7 +33,7 @@ The **E-commerce Website** is a modern, responsive shopping platform built with 
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](screenshots/homepage.png)  
+![Home Page](logo.png)  
 
 ### 🛍️ Shop Page  
 ![Shop Page](screenshots/shoppage.png)  
