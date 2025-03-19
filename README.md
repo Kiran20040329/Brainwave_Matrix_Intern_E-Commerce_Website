@@ -30,19 +30,11 @@ The **E-commerce Website** is a modern, responsive shopping platform built with 
 - 📩 **Newsletter Subscription** – Keeps users updated on offers.  
 - ✍️ **Blog & Contact Pages** – Enhance user engagement.  
 
-## 📸 Screenshots  
+## 📸 Demo-view
 
-### 🏠 Home Page  
-![Home Page](logo.png)  
 
-### 🛍️ Shop Page  
-![Shop Page](screenshots/shoppage.png)  
+![Have a look](demo.mp4)  
 
-### 👕 Single Product Page  
-![Single Product](screenshots/singleproduct.png)  
-
-### 🛒 Shopping Cart  
-![Cart Page](screenshots/cartpage.png)  
 
 ## 📂 Project Structure  
 ```
