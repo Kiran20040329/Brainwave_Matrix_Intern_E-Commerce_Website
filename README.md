@@ -64,7 +64,7 @@ Ecommerce-Website/
 ## 🔧 Installation & Setup  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/ecommerce-website.git
+   git clone https://github.com/Kiran20040329/Brainwave_Matrix_Intern_E-Commerce_Website.git
    ```
 2. **Navigate to the project folder**  
    ```sh
