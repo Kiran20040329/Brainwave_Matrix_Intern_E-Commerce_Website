@@ -8,6 +8,8 @@ Task 2 of the Brainwave_Mtrix_Solutions internship with repective domain of "Web
 ### Task 2: Create an e-commerce using CSS, HTML, and JavaScript. You can add any feautures you can think of. 
 
 
+
+
 # Brainwave_Matrix_Intern_E-Commerce_Website
 The E-commerce Website is a modern, responsive shopping platform built with HTML, CSS, and JavaScript. It provides an interactive and seamless shopping experience with a user-friendly interface.
 
@@ -68,7 +70,19 @@ Ecommerce-Website/
    ```sh
    cd ecommerce-website
    ```
-3. **Open `index.html` in a browser** to view the website.  
+3. **Open `index.html` in a browser** to view the website.
+   
+
+🎯 Usage
+
+🛍️ Click on a product in the Shop Page to view details.
+
+🏷️ Select size, quantity, and Add to Cart.
+
+🛒 View the cart and proceed with checkout.
+
+📩 Subscribe to the newsletter by entering your email.
+
 
 ## 💡 Future Enhancements  
 - 🌐 **Backend Integration** – Using **Node.js & Express**.  
