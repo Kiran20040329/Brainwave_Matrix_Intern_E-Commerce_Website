@@ -91,7 +91,7 @@ Ecommerce-Website/
 - 🔐 **User Authentication** – Secure login & registration.  
 
 ## 📞 Contact  
-For any queries, contact **Kiran Kumar** at [your-email@example.com](mailto:kk2004kiran@gmail.com).  
+For any queries, contact **Kiran Kumar** at mailto:kk2004kiran@gmail.com.  
 
 ---
 
